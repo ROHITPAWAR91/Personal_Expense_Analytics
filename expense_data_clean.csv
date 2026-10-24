@@ -1,0 +1,618 @@
+Date,Description,Category,Payment Method,Amount,Type
+2025-01-01,Monthly salary,Salary,Bank Transfer,4800.0,Income
+2025-01-01,Apartment rent,Rent,Credit Card,1500.0,Expense
+2025-01-01,Groceries,Food,UPI/Online,16.65,Expense
+2025-01-02,Restaurant,Food,Credit Card,46.14,Expense
+2025-01-03,Restaurant,Food,Cash,28.48,Expense
+2025-01-04,Restaurant,Food,Cash,67.65,Expense
+2025-01-04,Clinic visit,Health,Debit Card,33.43,Expense
+2025-01-04,Bus/Metro,Transport,Debit Card,25.96,Expense
+2025-01-05,Electricity & water,Bills,UPI/Online,104.4,Expense
+2025-01-05,Restaurant,Food,UPI/Online,65.0,Expense
+2025-01-05,Online order,Shopping,Credit Card,33.04,Expense
+2025-01-06,Fuel,Transport,Debit Card,15.23,Expense
+2025-01-06,Coffee/Snacks,Food,Credit Card,41.31,Expense
+2025-01-06,Online order,Shopping,Credit Card,20.11,Expense
+2025-01-08,Ride share,Transport,Cash,10.86,Expense
+2025-01-08,Internet & phone,Bills,Debit Card,95.0,Expense
+2025-01-08,Restaurant,Food,UPI/Online,49.7,Expense
+2025-01-09,Groceries,Food,Cash,29.04,Expense
+2025-01-09,Ride share,Transport,Credit Card,33.35,Expense
+2025-01-10,Clothing,Shopping,UPI/Online,19.78,Expense
+2025-01-10,Groceries,Food,UPI/Online,26.73,Expense
+2025-01-11,Ride share,Transport,Debit Card,12.27,Expense
+2025-01-11,Restaurant,Food,UPI/Online,27.03,Expense
+2025-01-11,Online order,Shopping,UPI/Online,48.12,Expense
+2025-01-12,Online order,Shopping,UPI/Online,16.97,Expense
+2025-01-12,Groceries,Food,Debit Card,55.0,Expense
+2025-01-12,Streaming subscriptions,Entertainment,UPI/Online,32.0,Expense
+2025-01-14,Coffee/Snacks,Food,Debit Card,22.95,Expense
+2025-01-14,Fuel,Transport,Debit Card,6.46,Expense
+2025-01-15,Ride share,Transport,Credit Card,36.26,Expense
+2025-01-15,Restaurant,Food,Debit Card,36.93,Expense
+2025-01-16,Ride share,Transport,Credit Card,35.02,Expense
+2025-01-17,Movie,Entertainment,Credit Card,28.17,Expense
+2025-01-18,Coffee/Snacks,Food,Cash,23.31,Expense
+2025-01-19,Restaurant,Food,UPI/Online,36.6,Expense
+2025-01-20,Bus/Metro,Transport,Cash,17.79,Expense
+2025-01-21,Groceries,Food,UPI/Online,28.29,Expense
+2025-01-21,Online order,Shopping,Credit Card,25.22,Expense
+2025-01-22,Coffee/Snacks,Food,UPI/Online,87.65,Expense
+2025-01-22,Ride share,Transport,Debit Card,15.09,Expense
+2025-01-23,Coffee/Snacks,Food,UPI/Online,112.65,Expense
+2025-01-24,Coffee/Snacks,Food,UPI/Online,41.07,Expense
+2025-01-24,Bus/Metro,Transport,Credit Card,13.78,Expense
+2025-01-25,Concert/Event,Entertainment,Credit Card,104.07,Expense
+2025-01-25,Coffee/Snacks,Food,Debit Card,56.97,Expense
+2025-01-26,Groceries,Food,Credit Card,24.99,Expense
+2025-01-26,Bus/Metro,Transport,UPI/Online,4.27,Expense
+2025-01-28,Coffee/Snacks,Food,UPI/Online,5.59,Expense
+2025-01-29,Restaurant,Food,Credit Card,13.0,Expense
+2025-01-29,Bus/Metro,Transport,Debit Card,7.74,Expense
+2025-01-30,Restaurant,Food,Cash,73.1,Expense
+2025-01-31,Online order,Shopping,UPI/Online,41.39,Expense
+2025-01-31,Groceries,Food,Credit Card,48.4,Expense
+2025-01-31,Ride share,Transport,Cash,24.54,Expense
+2025-02-01,Apartment rent,Rent,Credit Card,1500.0,Expense
+2025-02-01,Monthly salary,Salary,Bank Transfer,4800.0,Income
+2025-02-02,Restaurant,Food,Cash,33.2,Expense
+2025-02-04,Coffee/Snacks,Food,Credit Card,39.76,Expense
+2025-02-05,Ride share,Transport,Debit Card,14.6,Expense
+2025-02-05,Electricity & water,Bills,Cash,90.73,Expense
+2025-02-06,Groceries,Food,Cash,21.77,Expense
+2025-02-07,Coffee/Snacks,Food,UPI/Online,43.5,Expense
+2025-02-08,Groceries,Food,Debit Card,17.87,Expense
+2025-02-08,Internet & phone,Bills,Cash,95.0,Expense
+2025-02-09,Concert/Event,Entertainment,UPI/Online,17.25,Expense
+2025-02-09,Bus/Metro,Transport,UPI/Online,16.54,Expense
+2025-02-10,Fuel,Transport,Credit Card,14.3,Expense
+2025-02-11,Clinic visit,Health,UPI/Online,23.85,Expense
+2025-02-11,Groceries,Food,Credit Card,49.46,Expense
+2025-02-12,Coffee/Snacks,Food,UPI/Online,31.82,Expense
+2025-02-12,Streaming subscriptions,Entertainment,UPI/Online,32.0,Expense
+2025-02-13,Coffee/Snacks,Food,Cash,19.94,Expense
+2025-02-13,Pharmacy,Health,Cash,42.44,Expense
+2025-02-14,Restaurant,Food,Credit Card,23.63,Expense
+2025-02-15,Restaurant,Food,Credit Card,88.68,Expense
+2025-02-16,Restaurant,Food,Cash,56.89,Expense
+2025-02-16,Ride share,Transport,Credit Card,17.62,Expense
+2025-02-17,Groceries,Food,Debit Card,12.49,Expense
+2025-02-17,Ride share,Transport,Credit Card,13.3,Expense
+2025-02-18,Restaurant,Food,Cash,36.3,Expense
+2025-02-19,Coffee/Snacks,Food,Cash,64.37,Expense
+2025-02-20,Fuel,Transport,Debit Card,20.87,Expense
+2025-02-20,Pharmacy,Health,UPI/Online,6.94,Expense
+2025-02-20,Restaurant,Food,UPI/Online,45.85,Expense
+2025-02-21,Groceries,Food,Cash,13.29,Expense
+2025-02-22,Online order,Shopping,UPI/Online,111.15,Expense
+2025-02-22,Groceries,Food,Cash,40.64,Expense
+2025-02-22,Ride share,Transport,Credit Card,19.62,Expense
+2025-02-23,Restaurant,Food,Debit Card,37.48,Expense
+2025-02-24,Fuel,Transport,Debit Card,30.09,Expense
+2025-02-24,Groceries,Food,UPI/Online,41.43,Expense
+2025-02-24,Clothing,Shopping,Credit Card,23.28,Expense
+2025-02-25,Ride share,Transport,Debit Card,23.97,Expense
+2025-02-27,Restaurant,Food,Debit Card,24.91,Expense
+2025-02-27,Ride share,Transport,UPI/Online,16.51,Expense
+2025-02-27,Clinic visit,Health,UPI/Online,44.63,Expense
+2025-02-28,Restaurant,Food,Credit Card,37.72,Expense
+2025-03-01,Apartment rent,Rent,Cash,1500.0,Expense
+2025-03-01,Monthly salary,Salary,Bank Transfer,4800.0,Income
+2025-03-02,Bus/Metro,Transport,Cash,7.02,Expense
+2025-03-03,Coffee/Snacks,Food,Cash,11.93,Expense
+2025-03-04,Fuel,Transport,UPI/Online,32.02,Expense
+2025-03-05,Groceries,Food,Debit Card,43.17,Expense
+2025-03-05,Electricity & water,Bills,UPI/Online,115.26,Expense
+2025-03-06,Restaurant,Food,UPI/Online,37.34,Expense
+2025-03-06,Games,Entertainment,Cash,17.77,Expense
+2025-03-08,Ride share,Transport,Cash,13.15,Expense
+2025-03-08,Internet & phone,Bills,Cash,95.0,Expense
+2025-03-08,Games,Entertainment,Credit Card,36.18,Expense
+2025-03-09,Ride share,Transport,Debit Card,14.65,Expense
+2025-03-10,Fuel,Transport,Credit Card,22.47,Expense
+2025-03-10,Restaurant,Food,UPI/Online,76.19,Expense
+2025-03-11,Bus/Metro,Transport,UPI/Online,4.43,Expense
+2025-03-11,Coffee/Snacks,Food,UPI/Online,32.7,Expense
+2025-03-12,Fuel,Transport,Credit Card,52.54,Expense
+2025-03-12,Streaming subscriptions,Entertainment,Credit Card,32.0,Expense
+2025-03-12,Restaurant,Food,Cash,22.16,Expense
+2025-03-13,Coffee/Snacks,Food,UPI/Online,24.81,Expense
+2025-03-14,Clothing,Shopping,Credit Card,20.7,Expense
+2025-03-14,Fuel,Transport,Credit Card,2.52,Expense
+2025-03-14,Restaurant,Food,Cash,26.21,Expense
+2025-03-15,Coffee/Snacks,Food,Credit Card,46.26,Expense
+2025-03-15,Movie,Entertainment,Credit Card,13.08,Expense
+2025-03-15,Electronics accessory,Shopping,Debit Card,37.13,Expense
+2025-03-16,Groceries,Food,Debit Card,66.86,Expense
+2025-03-17,Coffee/Snacks,Food,Cash,65.13,Expense
+2025-03-17,Online order,Shopping,Debit Card,57.9,Expense
+2025-03-17,Movie,Entertainment,Credit Card,31.47,Expense
+2025-03-18,Groceries,Food,Credit Card,7.45,Expense
+2025-03-18,Pharmacy,Health,UPI/Online,94.16,Expense
+2025-03-20,Coffee/Snacks,Food,UPI/Online,56.71,Expense
+2025-03-20,Freelance project,Freelance,Bank Transfer,514.7,Income
+2025-03-20,Bus/Metro,Transport,UPI/Online,20.74,Expense
+2025-03-21,Coffee/Snacks,Food,Debit Card,34.46,Expense
+2025-03-22,Electronics accessory,Shopping,Credit Card,18.46,Expense
+2025-03-23,Coffee/Snacks,Food,Credit Card,107.88,Expense
+2025-03-23,Bus/Metro,Transport,UPI/Online,16.44,Expense
+2025-03-23,Pharmacy,Health,Cash,43.52,Expense
+2025-03-24,Fuel,Transport,Cash,28.78,Expense
+2025-03-25,Coffee/Snacks,Food,Cash,60.53,Expense
+2025-03-26,Groceries,Food,UPI/Online,37.55,Expense
+2025-03-26,Ride share,Transport,UPI/Online,12.38,Expense
+2025-03-27,Coffee/Snacks,Food,UPI/Online,38.79,Expense
+2025-03-28,Groceries,Food,Cash,5.05,Expense
+2025-03-29,Fuel,Transport,Credit Card,41.6,Expense
+2025-03-30,Bus/Metro,Transport,Debit Card,71.73,Expense
+2025-03-31,Fuel,Transport,Credit Card,20.54,Expense
+2025-03-31,Groceries,Food,Credit Card,33.54,Expense
+2025-04-01,Monthly salary,Salary,Bank Transfer,4800.0,Income
+2025-04-01,Apartment rent,Rent,Cash,1500.0,Expense
+2025-04-02,Groceries,Food,Debit Card,32.2,Expense
+2025-04-03,Groceries,Food,Debit Card,29.34,Expense
+2025-04-04,Bus/Metro,Transport,Credit Card,31.56,Expense
+2025-04-04,Electronics accessory,Shopping,UPI/Online,23.14,Expense
+2025-04-05,Ride share,Transport,Debit Card,20.13,Expense
+2025-04-05,Groceries,Food,UPI/Online,32.74,Expense
+2025-04-05,Electricity & water,Bills,Debit Card,131.67,Expense
+2025-04-06,Online order,Shopping,Debit Card,61.83,Expense
+2025-04-06,Groceries,Food,UPI/Online,22.42,Expense
+2025-04-07,Bus/Metro,Transport,Cash,33.42,Expense
+2025-04-08,Internet & phone,Bills,UPI/Online,95.0,Expense
+2025-04-09,Restaurant,Food,Credit Card,33.1,Expense
+2025-04-10,Groceries,Food,Debit Card,52.0,Expense
+2025-04-11,Restaurant,Food,Cash,39.13,Expense
+2025-04-12,Streaming subscriptions,Entertainment,Cash,32.0,Expense
+2025-04-12,Bus/Metro,Transport,Credit Card,33.54,Expense
+2025-04-13,Concert/Event,Entertainment,Credit Card,24.97,Expense
+2025-04-13,Groceries,Food,UPI/Online,26.82,Expense
+2025-04-13,Bus/Metro,Transport,Unknown,13.62,Expense
+2025-04-14,Restaurant,Food,Cash,55.93,Expense
+2025-04-15,Fuel,Transport,UPI/Online,13.21,Expense
+2025-04-15,Groceries,Food,Cash,39.88,Expense
+2025-04-16,Restaurant,Food,Debit Card,39.46,Expense
+2025-04-17,Fuel,Transport,Cash,12.6,Expense
+2025-04-17,Electronics accessory,Shopping,Debit Card,101.17,Expense
+2025-04-17,Coffee/Snacks,Food,Debit Card,45.17,Expense
+2025-04-18,Groceries,Food,Credit Card,28.5,Expense
+2025-04-18,Fuel,Transport,Cash,19.3,Expense
+2025-04-19,Coffee/Snacks,Food,Debit Card,47.55,Expense
+2025-04-19,Clinic visit,Health,Debit Card,29.97,Expense
+2025-04-20,Groceries,Food,UPI/Online,66.6,Expense
+2025-04-21,Restaurant,Food,UPI/Online,43.26,Expense
+2025-04-22,Restaurant,Food,Debit Card,65.42,Expense
+2025-04-22,Fuel,Transport,Debit Card,20.76,Expense
+2025-04-23,Restaurant,Food,Credit Card,17.76,Expense
+2025-04-24,Bus/Metro,Transport,Cash,10.91,Expense
+2025-04-24,Electronics accessory,Shopping,Credit Card,57.36,Expense
+2025-04-24,Restaurant,Food,UPI/Online,19.64,Expense
+2025-04-25,Coffee/Snacks,Food,UPI/Online,45.59,Expense
+2025-04-26,Games,Entertainment,Cash,45.94,Expense
+2025-04-27,Groceries,Food,Credit Card,61.81,Expense
+2025-04-28,Groceries,Food,Cash,28.54,Expense
+2025-04-29,Groceries,Food,Cash,18.73,Expense
+2025-04-29,Fuel,Transport,Debit Card,13.8,Expense
+2025-04-30,Groceries,Food,UPI/Online,19.86,Expense
+2025-04-30,Online order,Shopping,Debit Card,93.41,Expense
+2025-05-01,Monthly salary,Salary,Bank Transfer,4800.0,Income
+2025-05-01,Apartment rent,Rent,Debit Card,1500.0,Expense
+2025-05-02,Ride share,Transport,Credit Card,12.52,Expense
+2025-05-03,Coffee/Snacks,Food,Cash,67.23,Expense
+2025-05-04,Restaurant,Food,Cash,41.61,Expense
+2025-05-05,Electricity & water,Bills,UPI/Online,127.01,Expense
+2025-05-05,Fuel,Transport,Debit Card,15.18,Expense
+2025-05-05,Restaurant,Food,Credit Card,16.89,Expense
+2025-05-06,Groceries,Food,Debit Card,50.03,Expense
+2025-05-06,Bus/Metro,Transport,Credit Card,5.95,Expense
+2025-05-07,Bus/Metro,Transport,Cash,6.73,Expense
+2025-05-07,Coffee/Snacks,Food,Debit Card,28.77,Expense
+2025-05-08,Internet & phone,Bills,Debit Card,95.0,Expense
+2025-05-08,Bus/Metro,Transport,Debit Card,8.84,Expense
+2025-05-08,Restaurant,Food,Credit Card,31.27,Expense
+2025-05-09,Electronics accessory,Shopping,Credit Card,8.9,Expense
+2025-05-10,Pharmacy,Health,Debit Card,50.32,Expense
+2025-05-11,Coffee/Snacks,Food,UPI/Online,35.25,Expense
+2025-05-12,Coffee/Snacks,Food,Cash,33.46,Expense
+2025-05-12,Ride share,Transport,Credit Card,32.06,Expense
+2025-05-12,Streaming subscriptions,Entertainment,Credit Card,32.0,Expense
+2025-05-13,Restaurant,Food,UPI/Online,10.62,Expense
+2025-05-13,Fuel,Transport,Debit Card,35.94,Expense
+2025-05-14,Groceries,Food,Debit Card,72.98,Expense
+2025-05-15,Bus/Metro,Transport,UPI/Online,23.4,Expense
+2025-05-16,Groceries,Food,UPI/Online,23.38,Expense
+2025-05-16,Ride share,Transport,Cash,19.83,Expense
+2025-05-17,Restaurant,Food,Credit Card,54.18,Expense
+2025-05-18,Restaurant,Food,UPI/Online,11.88,Expense
+2025-05-19,Coffee/Snacks,Food,UPI/Online,8.54,Expense
+2025-05-20,Coffee/Snacks,Food,Debit Card,27.37,Expense
+2025-05-21,Ride share,Transport,Cash,5.41,Expense
+2025-05-22,Bus/Metro,Transport,Credit Card,24.43,Expense
+2025-05-22,Online order,Shopping,UPI/Online,51.78,Expense
+2025-05-22,Groceries,Food,Credit Card,52.64,Expense
+2025-05-23,Coffee/Snacks,Food,UPI/Online,29.45,Expense
+2025-05-23,Pharmacy,Health,UPI/Online,8.88,Expense
+2025-05-23,Movie,Entertainment,Cash,44.59,Expense
+2025-05-23,Bus/Metro,Transport,Credit Card,11.37,Expense
+2025-05-24,Groceries,Food,UPI/Online,60.24,Expense
+2025-05-25,Groceries,Food,UPI/Online,72.51,Expense
+2025-05-25,Fuel,Transport,UPI/Online,32.87,Expense
+2025-05-27,Coffee/Snacks,Food,UPI/Online,65.47,Expense
+2025-05-28,Groceries,Food,Credit Card,17.59,Expense
+2025-05-28,Fuel,Transport,UPI/Online,35.28,Expense
+2025-05-29,Restaurant,Food,Cash,43.95,Expense
+2025-05-29,Bus/Metro,Transport,Credit Card,14.08,Expense
+2025-05-30,Restaurant,Food,Cash,42.66,Expense
+2025-05-31,Fuel,Transport,UPI/Online,14.03,Expense
+2025-05-31,Restaurant,Food,Credit Card,76.99,Expense
+2025-06-01,Apartment rent,Rent,Credit Card,1500.0,Expense
+2025-06-01,Electronics accessory,Shopping,Credit Card,10.82,Expense
+2025-06-01,Coffee/Snacks,Food,Credit Card,65.89,Expense
+2025-06-01,Monthly salary,Salary,Bank Transfer,4800.0,Income
+2025-06-03,Groceries,Food,Credit Card,30.58,Expense
+2025-06-04,Bus/Metro,Transport,Cash,50.76,Expense
+2025-06-04,Coffee/Snacks,Food,UPI/Online,31.22,Expense
+2025-06-05,Electricity & water,Bills,Cash,105.62,Expense
+2025-06-05,Bus/Metro,Transport,Debit Card,27.77,Expense
+2025-06-06,Restaurant,Food,Credit Card,56.43,Expense
+2025-06-07,Fuel,Transport,Credit Card,20.83,Expense
+2025-06-08,Concert/Event,Entertainment,Debit Card,32.29,Expense
+2025-06-08,Internet & phone,Bills,UPI/Online,95.0,Expense
+2025-06-08,Fuel,Transport,Debit Card,15.78,Expense
+2025-06-08,Coffee/Snacks,Food,Debit Card,21.01,Expense
+2025-06-09,Fuel,Transport,Debit Card,21.4,Expense
+2025-06-09,Restaurant,Food,UPI/Online,23.36,Expense
+2025-06-10,Groceries,Food,Debit Card,50.97,Expense
+2025-06-10,Bus/Metro,Transport,UPI/Online,9.97,Expense
+2025-06-11,Electronics accessory,Shopping,Credit Card,5.97,Expense
+2025-06-11,Restaurant,Food,UPI/Online,29.86,Expense
+2025-06-12,Streaming subscriptions,Entertainment,UPI/Online,32.0,Expense
+2025-06-12,Restaurant,Food,UPI/Online,81.13,Expense
+2025-06-13,Fuel,Transport,Debit Card,14.99,Expense
+2025-06-14,Groceries,Food,Credit Card,18.33,Expense
+2025-06-15,Clothing,Shopping,Cash,17.58,Expense
+2025-06-15,Coffee/Snacks,Food,Credit Card,70.78,Expense
+2025-06-16,Groceries,Food,Debit Card,12.51,Expense
+2025-06-17,Coffee/Snacks,Food,Credit Card,54.09,Expense
+2025-06-17,Clothing,Shopping,Debit Card,10.99,Expense
+2025-06-17,Dental procedure,Health,Debit Card,420.0,Expense
+2025-06-17,Fuel,Transport,Credit Card,14.55,Expense
+2025-06-18,Restaurant,Food,Debit Card,14.18,Expense
+2025-06-19,Ride share,Transport,Cash,15.47,Expense
+2025-06-20,Groceries,Food,Debit Card,36.48,Expense
+2025-06-20,Freelance project,Freelance,Bank Transfer,595.01,Income
+2025-06-21,Groceries,Food,UPI/Online,62.18,Expense
+2025-06-21,Movie,Entertainment,Credit Card,27.43,Expense
+2025-06-22,Clinic visit,Health,UPI/Online,9.64,Expense
+2025-06-23,Fuel,Transport,UPI/Online,29.15,Expense
+2025-06-24,Groceries,Food,UPI/Online,6.43,Expense
+2025-06-24,Fuel,Transport,Cash,14.86,Expense
+2025-06-25,Coffee/Snacks,Food,Cash,26.79,Expense
+2025-06-25,Bus/Metro,Transport,UPI/Online,4.21,Expense
+2025-06-26,Restaurant,Food,Debit Card,58.08,Expense
+2025-06-26,Bus/Metro,Transport,UPI/Online,18.92,Expense
+2025-06-27,Groceries,Food,UPI/Online,12.26,Expense
+2025-06-27,Concert/Event,Entertainment,Credit Card,13.18,Expense
+2025-06-28,Bus/Metro,Transport,UPI/Online,11.31,Expense
+2025-06-28,Restaurant,Food,Debit Card,35.48,Expense
+2025-06-29,Bus/Metro,Transport,Cash,11.86,Expense
+2025-06-29,Online order,Shopping,Credit Card,17.89,Expense
+2025-06-30,Fuel,Transport,UPI/Online,10.96,Expense
+2025-06-30,Groceries,Food,Debit Card,25.79,Expense
+2025-07-01,Monthly salary,Salary,Bank Transfer,4800.0,Income
+2025-07-01,Apartment rent,Rent,Credit Card,1500.0,Expense
+2025-07-02,Fuel,Transport,Credit Card,8.44,Expense
+2025-07-02,Groceries,Food,Credit Card,22.85,Expense
+2025-07-03,Fuel,Transport,Debit Card,14.21,Expense
+2025-07-03,Restaurant,Food,Cash,13.87,Expense
+2025-07-04,Ride share,Transport,Cash,9.55,Expense
+2025-07-05,Electricity & water,Bills,UPI/Online,109.79,Expense
+2025-07-05,Movie,Entertainment,Cash,15.88,Expense
+2025-07-05,Restaurant,Food,UPI/Online,33.12,Expense
+2025-07-05,Bus/Metro,Transport,Cash,39.28,Expense
+2025-07-06,Groceries,Food,Debit Card,23.34,Expense
+2025-07-06,Ride share,Transport,Cash,11.97,Expense
+2025-07-08,Internet & phone,Bills,Credit Card,95.0,Expense
+2025-07-08,Restaurant,Food,Cash,46.33,Expense
+2025-07-09,Clothing,Shopping,Cash,39.12,Expense
+2025-07-09,Restaurant,Food,Credit Card,37.95,Expense
+2025-07-10,Fuel,Transport,UPI/Online,15.99,Expense
+2025-07-10,Restaurant,Food,Cash,26.43,Expense
+2025-07-11,Restaurant,Food,Debit Card,36.02,Expense
+2025-07-12,Streaming subscriptions,Entertainment,UPI/Online,32.0,Expense
+2025-07-12,Online order,Shopping,Cash,22.25,Expense
+2025-07-14,Ride share,Transport,Cash,8.7,Expense
+2025-07-14,Groceries,Food,Cash,34.54,Expense
+2025-07-15,Ride share,Transport,Debit Card,10.5,Expense
+2025-07-15,Clinic visit,Health,Cash,26.25,Expense
+2025-07-15,Groceries,Food,Credit Card,33.57,Expense
+2025-07-16,Restaurant,Food,Cash,45.64,Expense
+2025-07-16,Bus/Metro,Transport,UPI/Online,19.01,Expense
+2025-07-17,Coffee/Snacks,Food,Credit Card,24.23,Expense
+2025-07-18,Bus/Metro,Transport,Cash,17.01,Expense
+2025-07-18,Coffee/Snacks,Food,Debit Card,12.16,Expense
+2025-07-19,Electronics accessory,Shopping,Debit Card,17.74,Expense
+2025-07-19,Games,Entertainment,Credit Card,8.51,Expense
+2025-07-20,Online order,Shopping,UPI/Online,39.62,Expense
+2025-07-20,Clinic visit,Health,UPI/Online,20.35,Expense
+2025-07-21,Clothing,Shopping,Unknown,88.67,Expense
+2025-07-22,Restaurant,Food,Cash,17.51,Expense
+2025-07-24,Restaurant,Food,UPI/Online,60.69,Expense
+2025-07-25,Restaurant,Food,Unknown,34.66,Expense
+2025-07-26,Bus/Metro,Transport,Debit Card,10.41,Expense
+2025-07-26,Groceries,Food,Credit Card,116.84,Expense
+2025-07-27,Movie,Entertainment,Debit Card,41.9,Expense
+2025-07-27,Fuel,Transport,Credit Card,9.83,Expense
+2025-07-27,Groceries,Food,Credit Card,51.88,Expense
+2025-07-28,Coffee/Snacks,Food,Cash,14.87,Expense
+2025-07-28,Bus/Metro,Transport,Credit Card,36.93,Expense
+2025-07-29,Ride share,Transport,Debit Card,6.03,Expense
+2025-07-29,Games,Entertainment,Cash,28.13,Expense
+2025-07-29,Groceries,Food,Cash,28.25,Expense
+2025-07-30,Movie,Entertainment,Debit Card,51.17,Expense
+2025-07-30,Groceries,Food,UPI/Online,87.76,Expense
+2025-07-30,Ride share,Transport,Cash,18.6,Expense
+2025-08-01,Apartment rent,Rent,Debit Card,1500.0,Expense
+2025-08-01,Monthly salary,Salary,Bank Transfer,4800.0,Income
+2025-08-01,Coffee/Snacks,Food,Cash,22.88,Expense
+2025-08-02,Coffee/Snacks,Food,UPI/Online,19.61,Expense
+2025-08-03,Coffee/Snacks,Food,Debit Card,38.45,Expense
+2025-08-03,Ride share,Transport,Cash,27.89,Expense
+2025-08-04,Restaurant,Food,Debit Card,14.48,Expense
+2025-08-05,Restaurant,Food,Debit Card,57.27,Expense
+2025-08-05,Electricity & water,Bills,UPI/Online,113.58,Expense
+2025-08-06,Groceries,Food,Cash,17.52,Expense
+2025-08-06,Bus/Metro,Transport,Credit Card,20.02,Expense
+2025-08-06,Pharmacy,Health,UPI/Online,25.67,Expense
+2025-08-07,Fuel,Transport,Credit Card,15.66,Expense
+2025-08-07,Coffee/Snacks,Food,Credit Card,28.69,Expense
+2025-08-08,Groceries,Food,Credit Card,35.81,Expense
+2025-08-08,Internet & phone,Bills,UPI/Online,95.0,Expense
+2025-08-11,Clothing,Shopping,Cash,70.26,Expense
+2025-08-12,Streaming subscriptions,Entertainment,Credit Card,32.0,Expense
+2025-08-12,Ride share,Transport,Debit Card,20.14,Expense
+2025-08-13,Ride share,Transport,Debit Card,16.44,Expense
+2025-08-13,Groceries,Food,UPI/Online,34.89,Expense
+2025-08-14,Ride share,Transport,UPI/Online,12.57,Expense
+2025-08-14,Restaurant,Food,Cash,40.83,Expense
+2025-08-15,Groceries,Food,UPI/Online,59.8,Expense
+2025-08-16,Restaurant,Food,Cash,74.99,Expense
+2025-08-17,Clothing,Shopping,Debit Card,23.6,Expense
+2025-08-18,Coffee/Snacks,Food,UPI/Online,44.02,Expense
+2025-08-20,Groceries,Food,Credit Card,39.12,Expense
+2025-08-20,Online order,Shopping,Credit Card,33.24,Expense
+2025-08-22,Bus/Metro,Transport,Debit Card,17.76,Expense
+2025-08-22,Coffee/Snacks,Food,Cash,47.16,Expense
+2025-08-23,Coffee/Snacks,Food,Cash,43.4,Expense
+2025-08-24,Concert/Event,Entertainment,Cash,26.89,Expense
+2025-08-24,Ride share,Transport,Debit Card,25.06,Expense
+2025-08-25,Coffee/Snacks,Food,UPI/Online,34.62,Expense
+2025-08-25,Pharmacy,Health,Cash,45.58,Expense
+2025-08-26,Restaurant,Food,Debit Card,17.7,Expense
+2025-08-27,Fuel,Transport,Debit Card,31.32,Expense
+2025-08-28,Groceries,Food,Cash,21.76,Expense
+2025-08-29,Online order,Shopping,Unknown,37.84,Expense
+2025-08-29,Coffee/Snacks,Food,Debit Card,16.53,Expense
+2025-08-29,Fuel,Transport,Cash,22.03,Expense
+2025-08-30,Games,Entertainment,Credit Card,38.36,Expense
+2025-08-31,Fuel,Transport,Credit Card,11.22,Expense
+2025-09-01,Bus/Metro,Transport,Cash,4.97,Expense
+2025-09-01,Online order,Shopping,Cash,31.95,Expense
+2025-09-01,Monthly salary,Salary,Bank Transfer,4800.0,Income
+2025-09-01,Apartment rent,Rent,Debit Card,1500.0,Expense
+2025-09-01,Coffee/Snacks,Food,Debit Card,39.66,Expense
+2025-09-02,Fuel,Transport,Credit Card,11.66,Expense
+2025-09-04,Fuel,Transport,Debit Card,16.55,Expense
+2025-09-05,Restaurant,Food,Cash,40.77,Expense
+2025-09-05,Ride share,Transport,Debit Card,2.17,Expense
+2025-09-05,Electricity & water,Bills,Debit Card,125.48,Expense
+2025-09-06,Coffee/Snacks,Food,UPI/Online,18.52,Expense
+2025-09-06,Fuel,Transport,Credit Card,16.84,Expense
+2025-09-06,Online order,Shopping,Cash,73.23,Expense
+2025-09-07,Groceries,Food,Cash,27.37,Expense
+2025-09-07,Bus/Metro,Transport,Credit Card,24.52,Expense
+2025-09-08,Internet & phone,Bills,Cash,95.0,Expense
+2025-09-08,Bus/Metro,Transport,Cash,19.39,Expense
+2025-09-09,Ride share,Transport,Cash,8.81,Expense
+2025-09-09,Groceries,Food,Unknown,98.69,Expense
+2025-09-10,Groceries,Food,UPI/Online,6.29,Expense
+2025-09-11,Coffee/Snacks,Food,Cash,24.87,Expense
+2025-09-12,Streaming subscriptions,Entertainment,Credit Card,32.0,Expense
+2025-09-13,Coffee/Snacks,Food,Cash,37.49,Expense
+2025-09-14,Online order,Shopping,Cash,10.05,Expense
+2025-09-14,Groceries,Food,UPI/Online,29.2,Expense
+2025-09-14,Ride share,Transport,Cash,2.2,Expense
+2025-09-15,Clinic visit,Health,Credit Card,64.81,Expense
+2025-09-15,Groceries,Food,Debit Card,44.8,Expense
+2025-09-17,Ride share,Transport,UPI/Online,8.33,Expense
+2025-09-18,Coffee/Snacks,Food,UPI/Online,34.22,Expense
+2025-09-19,Restaurant,Food,Cash,48.11,Expense
+2025-09-19,Ride share,Transport,Credit Card,21.91,Expense
+2025-09-20,Freelance project,Freelance,Bank Transfer,643.08,Income
+2025-09-20,Coffee/Snacks,Food,Credit Card,14.1,Expense
+2025-09-20,Concert/Event,Entertainment,Cash,39.0,Expense
+2025-09-20,Clothing,Shopping,Credit Card,25.76,Expense
+2025-09-21,Coffee/Snacks,Food,UPI/Online,63.74,Expense
+2025-09-22,Fuel,Transport,Credit Card,14.91,Expense
+2025-09-22,Groceries,Food,UPI/Online,20.02,Expense
+2025-09-23,Ride share,Transport,Debit Card,29.24,Expense
+2025-09-23,Coffee/Snacks,Food,Debit Card,49.14,Expense
+2025-09-24,Coffee/Snacks,Food,Credit Card,37.48,Expense
+2025-09-24,Ride share,Transport,Cash,26.8,Expense
+2025-09-25,Bus/Metro,Transport,Cash,16.11,Expense
+2025-09-25,Coffee/Snacks,Food,Credit Card,36.87,Expense
+2025-09-26,Electronics accessory,Shopping,Credit Card,41.3,Expense
+2025-09-26,Fuel,Transport,UPI/Online,14.0,Expense
+2025-09-27,Electronics accessory,Shopping,Debit Card,22.52,Expense
+2025-09-27,Groceries,Food,Debit Card,54.02,Expense
+2025-09-28,Ride share,Transport,Cash,25.02,Expense
+2025-09-28,Clothing,Shopping,Credit Card,134.19,Expense
+2025-09-30,Groceries,Food,Credit Card,64.42,Expense
+2025-10-01,Monthly salary,Salary,Bank Transfer,4800.0,Income
+2025-10-01,Apartment rent,Rent,UPI/Online,1500.0,Expense
+2025-10-02,Coffee/Snacks,Food,Credit Card,45.3,Expense
+2025-10-03,Restaurant,Food,Credit Card,62.75,Expense
+2025-10-04,Coffee/Snacks,Food,UPI/Online,92.09,Expense
+2025-10-05,Electricity & water,Bills,Cash,113.9,Expense
+2025-10-06,Restaurant,Food,Credit Card,24.49,Expense
+2025-10-06,Ride share,Transport,Debit Card,30.55,Expense
+2025-10-07,Bus/Metro,Transport,Debit Card,10.23,Expense
+2025-10-07,Restaurant,Food,Debit Card,49.33,Expense
+2025-10-08,Internet & phone,Bills,Debit Card,95.0,Expense
+2025-10-08,Restaurant,Food,UPI/Online,67.22,Expense
+2025-10-09,Fuel,Transport,UPI/Online,29.97,Expense
+2025-10-09,Clinic visit,Health,Debit Card,48.24,Expense
+2025-10-09,Groceries,Food,Debit Card,34.58,Expense
+2025-10-10,Groceries,Food,Debit Card,18.95,Expense
+2025-10-11,Coffee/Snacks,Food,UPI/Online,25.89,Expense
+2025-10-11,Concert/Event,Entertainment,Cash,23.83,Expense
+2025-10-11,Fuel,Transport,UPI/Online,9.19,Expense
+2025-10-12,Restaurant,Food,Credit Card,20.21,Expense
+2025-10-12,Streaming subscriptions,Entertainment,Debit Card,32.0,Expense
+2025-10-12,Fuel,Transport,Debit Card,13.49,Expense
+2025-10-13,Restaurant,Food,Debit Card,29.04,Expense
+2025-10-14,Groceries,Food,UPI/Online,53.3,Expense
+2025-10-14,Ride share,Transport,Credit Card,4.22,Expense
+2025-10-15,Restaurant,Food,UPI/Online,27.09,Expense
+2025-10-16,Bus/Metro,Transport,Debit Card,25.66,Expense
+2025-10-17,Fuel,Transport,UPI/Online,15.51,Expense
+2025-10-18,Fuel,Transport,Cash,32.26,Expense
+2025-10-18,Groceries,Food,Debit Card,51.81,Expense
+2025-10-19,Bus/Metro,Transport,UPI/Online,6.53,Expense
+2025-10-20,Coffee/Snacks,Food,Debit Card,19.25,Expense
+2025-10-21,Groceries,Food,Credit Card,53.87,Expense
+2025-10-21,Concert/Event,Entertainment,Credit Card,8.0,Expense
+2025-10-21,Ride share,Transport,Unknown,14.42,Expense
+2025-10-22,Groceries,Food,UPI/Online,39.05,Expense
+2025-10-22,Ride share,Transport,UPI/Online,4.81,Expense
+2025-10-23,Groceries,Food,Credit Card,49.37,Expense
+2025-10-24,Restaurant,Food,Debit Card,43.54,Expense
+2025-10-24,Bus/Metro,Transport,Debit Card,35.73,Expense
+2025-10-25,Bus/Metro,Transport,Debit Card,10.99,Expense
+2025-10-26,Coffee/Snacks,Food,Debit Card,66.54,Expense
+2025-10-26,Concert/Event,Entertainment,Debit Card,45.85,Expense
+2025-10-27,Ride share,Transport,Cash,3.61,Expense
+2025-10-28,Pharmacy,Health,UPI/Online,11.85,Expense
+2025-10-28,Groceries,Food,Debit Card,24.63,Expense
+2025-10-28,Fuel,Transport,Credit Card,24.92,Expense
+2025-10-29,Coffee/Snacks,Food,UPI/Online,78.52,Expense
+2025-10-29,Online order,Shopping,UPI/Online,78.64,Expense
+2025-10-30,Bus/Metro,Transport,UPI/Online,16.75,Expense
+2025-10-31,Restaurant,Food,Cash,24.15,Expense
+2025-11-01,Clothing,Shopping,Cash,22.06,Expense
+2025-11-01,Fuel,Transport,Cash,36.93,Expense
+2025-11-01,Monthly salary,Salary,Bank Transfer,4800.0,Income
+2025-11-01,Apartment rent,Rent,UPI/Online,1500.0,Expense
+2025-11-02,Restaurant,Food,Unknown,22.72,Expense
+2025-11-03,Coffee/Snacks,Food,Credit Card,9.93,Expense
+2025-11-04,Coffee/Snacks,Food,Debit Card,50.92,Expense
+2025-11-05,Electricity & water,Bills,Debit Card,129.24,Expense
+2025-11-05,Bus/Metro,Transport,Credit Card,10.34,Expense
+2025-11-05,Restaurant,Food,UPI/Online,27.6,Expense
+2025-11-06,Fuel,Transport,Debit Card,12.32,Expense
+2025-11-06,Restaurant,Food,Debit Card,24.25,Expense
+2025-11-07,Coffee/Snacks,Food,Cash,77.4,Expense
+2025-11-08,Fuel,Transport,Cash,10.48,Expense
+2025-11-08,Coffee/Snacks,Food,Credit Card,74.17,Expense
+2025-11-08,Internet & phone,Bills,UPI/Online,95.0,Expense
+2025-11-09,Coffee/Snacks,Food,Cash,31.4,Expense
+2025-11-09,Concert/Event,Entertainment,UPI/Online,16.19,Expense
+2025-11-09,Bus/Metro,Transport,UPI/Online,9.68,Expense
+2025-11-10,Fuel,Transport,UPI/Online,18.33,Expense
+2025-11-11,Restaurant,Food,Debit Card,28.18,Expense
+2025-11-12,Online order,Shopping,Debit Card,26.21,Expense
+2025-11-12,Streaming subscriptions,Entertainment,Credit Card,32.0,Expense
+2025-11-12,Coffee/Snacks,Food,UPI/Online,15.6,Expense
+2025-11-12,Movie,Entertainment,Credit Card,25.81,Expense
+2025-11-13,Bus/Metro,Transport,Cash,6.11,Expense
+2025-11-14,Ride share,Transport,Cash,18.68,Expense
+2025-11-15,Movie,Entertainment,Cash,42.41,Expense
+2025-11-15,Restaurant,Food,Debit Card,91.07,Expense
+2025-11-15,Fuel,Transport,UPI/Online,52.7,Expense
+2025-11-17,Groceries,Food,Cash,28.56,Expense
+2025-11-17,Fuel,Transport,Cash,12.22,Expense
+2025-11-18,Fuel,Transport,Debit Card,16.13,Expense
+2025-11-18,Coffee/Snacks,Food,UPI/Online,66.22,Expense
+2025-11-19,Fuel,Transport,UPI/Online,17.4,Expense
+2025-11-19,Groceries,Food,Cash,16.02,Expense
+2025-11-20,Bus/Metro,Transport,Credit Card,21.69,Expense
+2025-11-20,Groceries,Food,Credit Card,25.22,Expense
+2025-11-21,Groceries,Food,Credit Card,25.82,Expense
+2025-11-21,Fuel,Transport,UPI/Online,10.28,Expense
+2025-11-22,Groceries,Food,UPI/Online,47.77,Expense
+2025-11-22,Bus/Metro,Transport,UPI/Online,9.06,Expense
+2025-11-23,Games,Entertainment,Unknown,40.65,Expense
+2025-11-23,Bus/Metro,Transport,Credit Card,4.35,Expense
+2025-11-23,Online order,Shopping,Credit Card,18.2,Expense
+2025-11-24,Fuel,Transport,Credit Card,41.39,Expense
+2025-11-24,Groceries,Food,Cash,59.27,Expense
+2025-11-25,Clothing,Shopping,UPI/Online,82.3,Expense
+2025-11-26,Coffee/Snacks,Food,Debit Card,20.88,Expense
+2025-11-26,Pharmacy,Health,Cash,9.33,Expense
+2025-11-26,Ride share,Transport,Cash,24.92,Expense
+2025-11-27,Groceries,Food,Cash,43.33,Expense
+2025-11-28,Fuel,Transport,Credit Card,7.32,Expense
+2025-11-28,Restaurant,Food,UPI/Online,22.75,Expense
+2025-11-28,Black Friday electronics,Shopping,Credit Card,480.0,Expense
+2025-11-29,Coffee/Snacks,Food,Cash,30.54,Expense
+2025-11-29,Fuel,Transport,Debit Card,19.93,Expense
+2025-11-30,Clothing,Shopping,Cash,27.78,Expense
+2025-11-30,Movie,Entertainment,Cash,9.25,Expense
+2025-12-01,Apartment rent,Rent,Debit Card,1500.0,Expense
+2025-12-01,Fuel,Transport,Debit Card,10.48,Expense
+2025-12-01,Monthly salary,Salary,Bank Transfer,4800.0,Income
+2025-12-02,Coffee/Snacks,Food,Cash,46.35,Expense
+2025-12-03,Coffee/Snacks,Food,Debit Card,39.99,Expense
+2025-12-03,Clothing,Shopping,Cash,25.34,Expense
+2025-12-03,Ride share,Transport,Debit Card,22.2,Expense
+2025-12-04,Coffee/Snacks,Food,UPI/Online,16.55,Expense
+2025-12-05,Ride share,Transport,Credit Card,12.87,Expense
+2025-12-05,Electricity & water,Bills,Credit Card,107.4,Expense
+2025-12-05,Restaurant,Food,UPI/Online,57.39,Expense
+2025-12-06,Groceries,Food,Cash,67.43,Expense
+2025-12-06,Bus/Metro,Transport,Debit Card,6.25,Expense
+2025-12-07,Movie,Entertainment,UPI/Online,14.35,Expense
+2025-12-08,Clothing,Shopping,UPI/Online,30.57,Expense
+2025-12-08,Restaurant,Food,Credit Card,13.76,Expense
+2025-12-08,Internet & phone,Bills,Debit Card,95.0,Expense
+2025-12-09,Fuel,Transport,Credit Card,21.24,Expense
+2025-12-09,Groceries,Food,Cash,56.15,Expense
+2025-12-10,Movie,Entertainment,Credit Card,63.54,Expense
+2025-12-10,Groceries,Food,UPI/Online,32.24,Expense
+2025-12-11,Ride share,Transport,Unknown,37.56,Expense
+2025-12-12,Streaming subscriptions,Entertainment,Credit Card,32.0,Expense
+2025-12-12,Ride share,Transport,Credit Card,3.61,Expense
+2025-12-12,Coffee/Snacks,Food,UPI/Online,55.37,Expense
+2025-12-13,Fuel,Transport,Debit Card,28.06,Expense
+2025-12-13,Coffee/Snacks,Food,Debit Card,69.47,Expense
+2025-12-14,Concert/Event,Entertainment,UPI/Online,45.99,Expense
+2025-12-14,Restaurant,Food,Credit Card,36.38,Expense
+2025-12-14,Ride share,Transport,UPI/Online,20.74,Expense
+2025-12-15,Restaurant,Food,Credit Card,18.49,Expense
+2025-12-16,Electronics accessory,Shopping,Credit Card,34.75,Expense
+2025-12-16,Groceries,Food,UPI/Online,30.29,Expense
+2025-12-17,Restaurant,Food,UPI/Online,34.12,Expense
+2025-12-18,Coffee/Snacks,Food,Credit Card,28.38,Expense
+2025-12-18,Bus/Metro,Transport,Credit Card,4.76,Expense
+2025-12-18,Clothing,Shopping,UPI/Online,70.68,Expense
+2025-12-18,Holiday gifts,Shopping,Credit Card,390.0,Expense
+2025-12-19,Restaurant,Food,Cash,19.58,Expense
+2025-12-20,Concert/Event,Entertainment,Cash,30.34,Expense
+2025-12-20,Clinic visit,Health,Debit Card,30.7,Expense
+2025-12-20,Ride share,Transport,Credit Card,11.39,Expense
+2025-12-20,Freelance project,Freelance,Bank Transfer,665.06,Income
+2025-12-21,Coffee/Snacks,Food,UPI/Online,41.59,Expense
+2025-12-21,Movie,Entertainment,Credit Card,38.23,Expense
+2025-12-22,Fuel,Transport,UPI/Online,42.36,Expense
+2025-12-22,Online order,Shopping,Debit Card,42.65,Expense
+2025-12-23,Coffee/Snacks,Food,UPI/Online,21.1,Expense
+2025-12-24,Holiday dinner & travel,Food,Debit Card,210.0,Expense
+2025-12-25,Groceries,Food,UPI/Online,15.83,Expense
+2025-12-26,Groceries,Food,Cash,32.31,Expense
+2025-12-27,Online order,Shopping,Cash,82.82,Expense
+2025-12-27,Bus/Metro,Transport,UPI/Online,17.38,Expense
+2025-12-28,Restaurant,Food,Debit Card,111.33,Expense
+2025-12-29,Coffee/Snacks,Food,Credit Card,23.0,Expense
+2025-12-30,Games,Entertainment,Credit Card,8.28,Expense
+2025-12-30,Coffee/Snacks,Food,Debit Card,55.97,Expense
+2025-12-31,Ride share,Transport,Cash,18.43,Expense
